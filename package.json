@@ -11,13 +11,13 @@
   },
   "devDependencies": {
     "@types/node": "22.19.17",
-    "tsx": "^4.22.2",
+    "tsx": "4.22.2",
     "typescript": "6.0.3"
   },
   "dependencies": {
-    "@hono/node-server": "^1.19.14",
-    "hono": "^4.12.19",
-    "viem": "^2.50.3"
+    "@hono/node-server": "1.19.14",
+    "hono": "4.12.27",
+    "viem": "2.53.1"
   },
   "overrides": {
     "ws": "8.21.0"
